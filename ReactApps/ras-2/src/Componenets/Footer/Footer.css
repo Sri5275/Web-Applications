@@ -1,0 +1,12 @@
+.foot{
+    display:flex;
+align-items: center;
+justify-content: space-evenly;
+
+background-color: darkturquoise;}
+.one{
+    padding: 20px;
+}
+.two{
+    padding: 20px;
+}

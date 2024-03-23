@@ -1,0 +1,25 @@
+.user{
+    border: 2px solid rgb(200, 165, 129);
+    width: 450px;
+    margin:auto;
+    padding: 1rem;
+    
+    background-color: limegreen;
+}
+.n{
+    text-align: center;
+    color: red;
+}
+.s{
+    text-align: center;
+    color: yellow;
+}
+.y{
+    text-align: center;
+    color: blue;
+}
+.i{
+   
+    align-items: center;
+    margin: auto;
+}

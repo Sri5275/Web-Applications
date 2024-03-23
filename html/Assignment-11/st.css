@@ -1,0 +1,106 @@
+body{
+    background-image: url(https://img.freepik.com/premium-vector/painted-background-multicoloured-palette_23-2148427592.jpg?w=2000);
+    background-size:cover,contain;
+    background-repeat: no-repeat;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    padding: 5px;
+}
+.d{
+    max-width: 94rem;
+    max-height: 60rem;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+ flex-wrap: wrap;
+  
+}
+img{
+    display:block;
+    margin:auto;
+    max-width: 150px;
+    border: 1px solid lightblue;
+}
+.q,.r,.s,.t{
+    max-height: 20rem;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    max-width: 11rem;
+    border: 2px solid lightblue;
+    box-shadow: 1px 1px 20px;
+    margin: 10px 15px;
+    padding: 10px 10px;
+    position: relative;
+ 
+}
+.y{
+text-align: center;
+font-family: 'Roboto', sans-serif;
+max-width: 700px;
+} 
+
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+
+    color:greenyellow;
+    padding: 5px;
+}
+
+.footer{
+    display: flex;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bolder;
+    border: 1px solid deeppink;
+    justify-content:space-between;
+    position: relative;
+    flex-wrap: wrap;
+}
+.m{
+    border: .5px solid deeppink;
+    padding: 5px;
+}
+@media screen and (min-width:724px) and (max-width:960px) {
+ 
+  h1{
+    font-size: 45px;
+  }
+    .t{
+        display: none;
+    }
+    
+}
+
+@media screen and (min-width:494px) and (max-width:974px) {
+    .y{
+    display: none;
+    }
+    h1{
+        font-size: 35px;
+      }
+        
+
+}
+@media screen and (max-width:494px) {
+   img{
+    display:none;
+   }
+   .footer{
+    display: none;
+}
+h1{
+    font-size: 25px;
+  }
+  .y{
+    display: none;;
+  }
+    
+}

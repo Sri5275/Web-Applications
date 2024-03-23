@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.jpg?t=st=1657365303~exp=1657365903~hmac=e2b190b89ecee40993a9fd3ff9bfbf16aebaab6dfc669c64dbb091c16676e1bf&w=996);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+p{
+    text-align: center;
+    color: black;
+    padding: 5px;
+}
+.d{
+    width: 94rem;
+    height: 20rem;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+ flex-wrap: wrap;
+  
+}
+img{
+    display:block;
+    margin:auto;
+    width: 150px;
+    border-radius: 50%;
+}
+.q,.r,.s{
+    height: 30rem;
+    text-align:center;
+    width: 11rem;
+    border: 2px solid lightblue;
+    box-shadow: 1px 1px 20px;
+    margin: 10px 15px;
+    padding: 10px 10px;
+    position: relative;
+ 
+}
+ 
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:greenyellow;
+    padding: 10px;
+}
+.logo{
+    border-radius: 50%;
+    position: absolute;
+   height: 50px;
+   width: 80px;
+    left: 60px;
+}
+.logo2{
+    border-radius: 50%;
+    position: absolute;
+  height: 40px;
+  width: 40px;
+  top: -15px;
+   right: -15px;
+
+}

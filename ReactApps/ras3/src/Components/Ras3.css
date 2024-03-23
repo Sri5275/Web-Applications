@@ -1,0 +1,33 @@
+
+.parent{
+    background-color: red;
+    border: 2px solid ;
+    width: 450px;
+}
+.child{
+    background-color: green;
+    border: 2px solid ;
+    width: 452px;
+    margin: auto;
+    margin-top: 200px;
+   
+}
+*{
+    justify-content: center;
+    
+    align-items: center;
+}
+.one{
+    border-radius: 15px;
+    width: 100px;
+    height: 40px;
+    color:cornsilk;
+    background-color: darksalmon;
+}
+.two{
+    border-radius: 15px;
+    width: 100px;
+    height: 40px;
+    color: deeppink;
+    background-color: blue;
+}

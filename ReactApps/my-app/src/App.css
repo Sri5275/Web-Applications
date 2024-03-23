@@ -1,0 +1,39 @@
+*{
+  margin:0;
+  padding:0;
+}
+.child{
+  text-align: center;
+  width: 400px;
+  height: 450px;
+  padding: 0px;
+  background-color: green;
+
+  border: 2px solid black;
+  border-radius: 2px solid black;
+}
+.m1{
+  display:flex;
+  justify-content: space-around;
+  
+  margin-top: 20px;
+}
+.m2{
+  display:flex;
+  padding: 0px;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.one{
+  padding: 0px;
+}
+img{
+
+  width: 396.5px;
+  
+  
+}
+.App{
+  background-color:dimgray;
+  padding:15px;
+}

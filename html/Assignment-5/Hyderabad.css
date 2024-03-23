@@ -1,0 +1,25 @@
+.img1{
+    width: 450px;
+    padding: 10px;
+    }
+    .img2{
+        width: 465px;
+        padding: 10px;
+        padding: 20px;
+        box-shadow: 3px 3px 30px cadetblue;
+        background-color: aliceblue;
+    }
+        .img3{
+            width: 450px;
+            padding: 10px;
+    }
+    h2{
+        text-align: center;
+        color:coral;
+        font-size: 3rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    p{
+        font-size: 1.5rem;
+        font-family: 'Finlandica', sans-serif;
+    }

@@ -1,0 +1,7 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.para{
+    width: 400px;
+}

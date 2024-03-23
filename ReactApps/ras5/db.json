@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "username": "Hello",
+      "dateOfBirth": "2023-01-12",
+      "city": "Hello",
+      "id": 1
+    },
+    {
+      "username": "Hello",
+      "dateOfBirth": "2023-01-12",
+      "city": "Hello",
+      "id": 2
+    },
+    {
+      "username": "Hello",
+      "dateOfBirth": "2023-01-12",
+      "city": "Hello",
+      "id": 3
+    },
+    {
+      "username": "Hello",
+      "dateOfBirth": "2023-01-12",
+      "city": "Hello",
+      "id": 4
+    },
+    {
+      "username": "saketh1",
+      "dateOfBirth": "2023-01-06",
+      "city": "sdf",
+      "id": 5
+    },
+    {
+      "username": "saketh1",
+      "dateOfBirth": "2023-01-06",
+      "city": "sdf",
+      "id": 6
+    },
+    {
+      "username": "saketh1",
+      "dateOfBirth": "2023-01-06",
+      "city": "sdf",
+      "id": 7
+    },
+    {
+      "username": "Saketj",
+      "dateOfBirth": "2023-01-07",
+      "city": "Hyderabad",
+      "id": 8
+    },
+    {
+      "username": "Saketj",
+      "dateOfBirth": "2023-01-07",
+      "city": "Hyderabad",
+      "id": 9
+    },
+    {
+      "username": "Saketj",
+      "dateOfBirth": "2023-01-07",
+      "city": "Hyderabad",
+      "id": 10
+    },
+    {
+      "username": "Saketj",
+      "dateOfBirth": "2023-01-07",
+      "city": "Hyderabad",
+      "id": 11
+    },
+    {
+      "username": "Saketj",
+      "dateOfBirth": "2023-01-07",
+      "city": "Hyderabad",
+      "id": 12
+    },
+    {
+      "username": "sdojvmsl",
+      "dateOfBirth": "2023-01-07",
+      "city": "sjdnovkems",
+      "id": 13
+    },
+    {
+      "username": "sdojvmsl",
+      "dateOfBirth": "2023-01-07",
+      "city": "sjdnovkems",
+      "id": 14
+    },
+    {
+      "username": "sdojvmsl",
+      "dateOfBirth": "2023-01-07",
+      "city": "sjdnovkems",
+      "id": 15
+    },
+    {
+      "username": "sdojvmsl",
+      "dateOfBirth": "2023-01-07",
+      "city": "sjdnovkems",
+      "id": 16
+    },
+    {
+      "username": "sdojvmsl",
+      "dateOfBirth": "2023-01-07",
+      "city": "sjdnovkems",
+      "id": 17
+    },
+    {
+      "username": "sdojvmsl",
+      "dateOfBirth": "2023-01-07",
+      "city": "sjdnovkems",
+      "id": 18
+    }
+  ]
+}

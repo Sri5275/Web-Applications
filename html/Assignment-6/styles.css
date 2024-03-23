@@ -1,0 +1,29 @@
+body{
+    background-image:url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/night-sea-woraput.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    font-weight: bolder;
+    margin-bottom: 3px;
+    font-size: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: whitesmoke;
+}
+div{
+  display: flex;
+  align-items: center;
+  justify-content:space-evenly;
+}
+h2{
+  color:white;
+  border: 2px solid white;
+  padding:20px;
+}
+  p{
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}

@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    display:flex ;
+    flex-wrap: wrap;
+    max-width: 100vw;
+    background: red;
+}
+.parent{
+    background-color: red;
+    width: 100vw;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.heading_L{
+    background-color: white;
+    padding: 10px;
+    height: 60px;
+    min-width: 100vw;
+    margin: 0px 0px 0px 0px;
+}
+
+.a{
+   
+    padding: 70px;
+    margin-bottom: 10%;
+    margin-left: 50px;
+    position:relative;
+}
+.a h2{
+    font-size: 3rem;
+    
+font-family: 'Mukta', sans-serif
+}
+.d{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    column-gap: 20px;
+}
+.q{
+    height: 320px;
+    width: 500px;
+    background-color: maroon;
+
+}
+.parent h2,.parent p,.parent h3{
+    color: whitesmoke;
+}
+.a img{
+ width: 300px;
+ height: 300px;
+  border-radius: 50%;
+    float: right;
+    position:absolute;
+    padding-right: 5rem;
+    top: 10rem;
+    left:65rem;
+}
+.a p,.a h2{
+    width:500px;
+    font-family: 'Finlandica', sans-serif;
+
+}
+
+.a p{
+    word-spacing: 2px;
+    padding-top: 2rem;
+    line-height: 1.5rem;
+    font-size: 1rem;
+}
+.q p,.q h3{
+    padding: 1rem;
+    margin: 20px;
+    word-spacing: 2px;
+    font-family: 'Finlandica', sans-serif;
+    line-height: 1.5rem;
+    font-size: 1rem;
+}
+.q p{
+    font-size: 15px;
+    padding: 10px;
+    margin-left: 50px;
+
+}
+.q h3{
+    font-size: 1.5rem;
+    color: white;
+    padding: 30px;
+}
+h1{
+    font-size: 2rem;
+    margin-left: 120px;
+    color: red;
+}
+.m{
+    padding: 0;
+    margin-bottom: 10%;
+}
+i{
+    width: 15px;
+}

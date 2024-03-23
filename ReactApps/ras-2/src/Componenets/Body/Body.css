@@ -1,0 +1,9 @@
+.ras2{
+  width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    padding: 1rem;
+    
+}
